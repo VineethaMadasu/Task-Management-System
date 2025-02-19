@@ -1,2 +1,2 @@
 # Task-Management-System
-Developed a web-based Task Management System with a focus on efficiency and user-friendliness. Empowered individuals and teams with robust task organization, delegation, and monitoring capabilities.
+Welcome to the **Task Management System** – a web-based application designed to enhance productivity and streamline task organization for individuals and teams. This project was developed as a collaborative effort, focusing on efficiency, user-friendliness, and robust task management capabilities.
